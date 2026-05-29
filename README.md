@@ -1,16 +1,53 @@
-# React + Vite
+# Micropro 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# MicroPDF Pro 📄➡️📑
 
-Currently, two official plugins are available:
+**A powerful client-side utility to compile multi-page PDF documents into custom N-up grids with duplex (back-to-back) alignment.**
+Transform your documents into optimized print-ready sheets with customizable grid layouts, paper sizes, and duplex binding modes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 **Live Demo:** [https://micropro-tau.vercel.app](https://micropro-tau.vercel.app)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- ⚡ **Lightning-Fast Builds** – Powered by Vite for instant HMR (Hot Module Replacement)
+- ⚙️ **React Optimization** – ESLint rules configured for clean, maintainable code
+- 🎯 **Production-Ready** – Optimized for performance and scalability
+- 📱 **Responsive Design** – Beautiful CSS styling across all devices
+- 🔧 **Modern Tooling** – Latest web development best practices
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+| Language | Percentage | Purpose |
+|----------|-----------|---------|
+| **JavaScript** | 69.5% | Core application logic & React components |
+| **CSS** | 29.4% | Styling & responsive design |
+| **HTML** | 1.1% | Semantic markup |
+
+---
+
+## 📋 Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- **Node.js** (v16 or higher)
+- **npm** or **yarn** package manager
+
+---
+
+## 🚀 Quick Start
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/rushii-girase/micropro.git
+
+# Navigate to project directory
+cd micropro
+
+# Install dependencies
+npm install
