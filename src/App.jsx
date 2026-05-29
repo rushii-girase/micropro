@@ -698,6 +698,18 @@ function App() {
               </>
             )}
           </button>
+
+          <div style={{
+            textAlign: 'center',
+            fontSize: '0.8rem',
+            color: 'var(--text-muted)',
+            marginTop: 'auto',
+            paddingTop: '1rem',
+            borderTop: '1px solid var(--glass-border)',
+            letterSpacing: '0.5px'
+          }}>
+            Made By Rushii
+          </div>
         </aside>
 
         {/* Live Preview Pane */}
